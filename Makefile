@@ -17,7 +17,7 @@ XTENSA_TOOLS_ROOT ?= /opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin
 # base directory of the ESP8266 SDK package, absolute
 SDK_BASE	?= /opt/Espressif/ESP8266_SDK
 
-#Esptool.py path and port
+#Esptool.py path and port 
 ESPTOOL		?= /opt/Espressif/esptool-py/esptool.py
 ESPPORT		?= /dev/ttyUSB0
 
